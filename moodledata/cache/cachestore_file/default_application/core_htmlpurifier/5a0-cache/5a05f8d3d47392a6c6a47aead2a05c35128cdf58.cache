@@ -1,0 +1,8 @@
+s:430:"<p>Los permisos son los ajustes con los que usted otorga la posibilidad de llevar a cabo determinadas acciones.
+Hay 4 opciones:</p>
+
+<ul><li>No ajustado</li>
+<li>Permitir: se concede el permiso para actuar.</li>
+<li>Prevenir: se retira el permiso, incluso aunque se admita en un contexto más alto.</li>
+<li>Prohibir: se retira por completo el permiso y no se puede anular en ningún nivel más bajo (más específico).</li>
+</ul>";

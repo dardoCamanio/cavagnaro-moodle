@@ -1,0 +1,6 @@
+s:482:"<p>Después de contestar correctamente una pregunta, hay 3 opciones para la página siguiente:</p>
+
+<ul><li>Normal - Se sigue el itinerario de la lección</li>
+<li>Mostrar una página no vista  - Las páginas se muestran en un orden aleatorio, sin que ninguna página se muestre dos veces</li>
+<li>Mostrar una página aún no respondida - Las páginas se muestran en un orden aleatorio, de manera que las páginas que contienen preguntas sin respuesta se muestra de nuevo</li>
+</ul>";
